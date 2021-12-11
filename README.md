@@ -1,6 +1,6 @@
 # Testes de Integração: Testes de SQL e DAOs automatizados em Java
 
-Desafio: 
+## 🎯 Desafio: 
 - Usar das boas práticas nos testes de integração;
 - Conhecer as classes de equivalência;
 - Lidar com os problemas dos testes de integração;
